@@ -1,0 +1,2 @@
+# muldimension-tic-tac-toe
+This is a multi-dimension Tic-Tac-Toe game developed in C, with a special rule, called 'Gravity'. The game language is PT/BR.
